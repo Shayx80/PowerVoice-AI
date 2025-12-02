@@ -1,0 +1,11 @@
+﻿PyQt6==6.7.0
+sounddevice==0.5.0
+numpy==1.26.4
+vosk==0.3.45
+pyttsx3==2.90
+llama-cpp-python==0.2.74
+requests==2.32.3
+fastapi==0.115.0
+uvicorn==0.30.0
+pydantic==2.9.2
+psutil==6.0.0

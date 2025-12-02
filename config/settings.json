@@ -1,0 +1,26 @@
+{
+  "language": "ru",
+  "voice": "female",
+  "mode": "offline",
+  "sample_rate": 16000,
+  "device": "cpu",
+  "trial_days": 14,
+  "license_key": "",
+  "owner_id": "MASTER",
+  "vip_users": [],
+  "hotkey": "Ctrl+Shift+Space",
+  "llm_primary": "mistral-7b-instruct-v0.3.Q4_K_M.gguf",
+  "llm_secondary": "meta-llama-3-8b-instruct.Q4_K_M.gguf",
+  "languages_supported": {
+    "ru": "vosk-model-ru-0.42",
+    "uz": "vosk-model-small-uz-0.22",
+    "en": "vosk-model-en-us-0.15",
+    "ar": "vosk-model-ar-0.22-linto-1.1.0",
+    "cn": "vosk-model-cn-0.22"
+  },
+  "auto_language_detect": true,
+  "auto_repair_config": true,
+  "auto_start_listening": true,
+  "internet_access_button": true,
+  "autostart": true
+}
